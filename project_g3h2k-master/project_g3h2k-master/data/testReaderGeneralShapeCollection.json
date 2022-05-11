@@ -1,0 +1,13 @@
+{
+  "Shape Collection": [
+    {
+      "side number": 10,
+      "side length": 20
+    },
+    {
+      "side number": 20,
+      "side length": 30
+    }
+  ],
+  "Angle": 30
+}

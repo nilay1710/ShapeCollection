@@ -1,0 +1,21 @@
+{
+    "Shape Collection": [
+        {
+            "side number": 4,
+            "side length": 600
+        },
+        {
+            "side number": 12,
+            "side length": 12
+        },
+        {
+            "side number": 121,
+            "side length": 1212
+        },
+        {
+            "side number": 89,
+            "side length": 89
+        }
+    ],
+    "Angle": 0
+}
